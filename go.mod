@@ -24,6 +24,7 @@ require (
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.19 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
+	github.com/stackus/errors v0.1.7
 	golang.org/x/sync v0.12.0
 	golang.org/x/sys v0.30.0 // indirect
 	google.golang.org/grpc v1.71.0
